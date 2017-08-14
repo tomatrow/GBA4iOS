@@ -1,3 +1,9 @@
+Concerning the Fork (ajcaldwell)
+=========
+The true repository is hosted on BitBucket.
+We follow this [wonderful guide](https://www.reddit.com/r/GBA4iOS/wiki/index) for sideloading. 
+I didn't upload any personal provisioning profiles. 
+
 GBA4iOS
 ===========
 
