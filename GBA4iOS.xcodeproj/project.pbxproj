@@ -3594,7 +3594,7 @@
 				CLANG_MODULES_AUTOLINK = YES;
 				CODE_SIGN_ENTITLEMENTS = GBA4iOS/GBA4iOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 6FG7E8ZV3F;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GBA4iOS/GBA4iOS-Prefix.pch";
@@ -3619,8 +3619,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ajcaldwell.GBA4iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "0dd4ddd7-e448-4e73-8d21-ff07a194ecec";
-				PROVISIONING_PROFILE_SPECIFIER = "com.ajcaldwell.GBA4iOS AppStore";
+				PROVISIONING_PROFILE = "bc0d42e3-5ac3-4d67-8bd2-64fb776c4fba";
+				PROVISIONING_PROFILE_SPECIFIER = "com.ajcaldwell.GBA4iOS Development";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
