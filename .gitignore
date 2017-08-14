@@ -1,3 +1,8 @@
+# ajcaldwell
+AppStore_com.ajcaldwell.GBA4iOS.mobileprovision
+Development_com.ajcaldwell.GBA4iOS.mobileprovision
+fastlane
+
 # Xcode
 .DS_Store
 */build/*
